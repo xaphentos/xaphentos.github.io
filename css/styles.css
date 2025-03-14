@@ -1,1 +1,15 @@
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: monospace;
+    padding: 5px;
+}
 
+
+.p {
+    color: #E0E0E0;
+}
+
+h2 {
+    font-size: 25px;
+}
