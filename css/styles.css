@@ -3,6 +3,7 @@ body {
     color: #E0E0E0;
     font-family: monospace;
     padding: 5px;
+    
 }
 
 
@@ -12,4 +13,13 @@ body {
 
 h2 {
     font-size: 25px;
+}
+
+button {
+    font-size: 16px;
+    font-family: Verdana;
+    padding: 15px 25px;
+    border-radius: 8px;
+    cursor:pointer;
+
 }
